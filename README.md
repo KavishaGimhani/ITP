@@ -1,2 +1,2 @@
 # ITP
-Baker management system
+Bakery management system
